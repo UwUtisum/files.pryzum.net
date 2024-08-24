@@ -12,7 +12,7 @@ banner = [
 "<span class=\"color5\">            ░     ░ ░       ░ ░       ░            ░                ░  ░  ░    ░ ░           ░    ░  ░       ░  ░    ░ ░        ░       ░  </span>",
 "<span class=\"color5\">                  ░ ░     ░                                                                                                                </span>",
 "<span class=\"color5\">-------------------------------------------------------------------------------------------------------------------------------------------</span>",
-"<span class=\"color5\"><a href='https://pryzum.github.io'>Go back to Main Menu</a></span>",
+"<span class=\"color5\"><a href='https://pryzum.net'>Go back to Main Menu</a></span>",
 "<br>",
 "<span class=\"color5\">Phone Log Downloads</span>",
 "<span class=\"color5\">  ╚══Phone Download Batch 07-08-24</span>",
