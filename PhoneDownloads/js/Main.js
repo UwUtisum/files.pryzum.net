@@ -19,6 +19,8 @@ banner = [
 "<span class=\"color5\">  |  ╚═<a href='./SozeSim.txt'>Kael Soze</a></span>",
 "<span class=\"color5\">  |  ╚═<a href='./StalkerSim1.txt'>Unknown Stalker Sim</a></span>",
 "<span class=\"color5\">  |  ╚═[More Sims to be Uploaded Soon]</span>",
+"<h1><span class=\"color5\">Book Transcripts:</span></h1>",
+"<span class=\"color5\">    ╚═<a href='./changgangbook.txt'>my bi-weekly meeting complaints (CHANG GANG)</a></span>",
 ];
 
 var before = document.getElementById("before"),
